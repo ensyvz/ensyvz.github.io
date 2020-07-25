@@ -15,17 +15,21 @@ AUR'dan bluez-utils paketini yükleyelim.
 ```
 
 Bluetooth'u bluez-utils paketinin sağladığı bluetoothctl komutuyla çalıştırıp cihazlar için arama başlatalım.
-``` power on ```
-``` agent on ```
-``` default-agent ```
-``` scan on ```
+``` bash
+power on
+agent on
+default-agent
+scan on ```
 
 Bağlanmak istediğiniz cihaz ekranda MAC adresiyle beraber çıktığında bağlanmak için:
-``` pair cihazın-mac-adresi ```
-``` connect cihazın-mac-adresi ```
+``` bash
+pair cihazın-mac-adresi 
+connect cihazın-mac-adresi ```
 
 Eğer scan on komutundan sonra notready hatası alırsanız:
-``` rfkill list ```
+```bash 
+rfkill list ```
 Eğer bloklanmış olan varsa:
-``` rfkill unblock all ```
+```bash
+rfkill unblock all ```
 Daha sonrasında scan on komutundan devam edebilirsiniz. 
