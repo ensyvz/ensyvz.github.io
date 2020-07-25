@@ -14,7 +14,7 @@ AUR'dan bluez-utils paketini yükleyelim.
 ``` yay - S bluez-utils ```
 
 Bluetooth'u bluez-utils paketinin sağladığı bluetoothctl komutuyla çalıştırıp cihazlar için arama başlatalım.
-``` power on
+``` power on \n
    agent on
    default-agent
    scan on ```
