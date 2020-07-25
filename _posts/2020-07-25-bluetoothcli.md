@@ -17,6 +17,7 @@ yay - S bluez-utils
 
 Bluetooth'u bluez-utils paketinin sağladığı bluetoothctl komutuyla çalıştırıp cihazlar için arama başlatalım.
 ```shell
+bluetoothctl
 power on
 agent on
 default-agent
