@@ -2,6 +2,10 @@
 
 - title: Home
   url: /
+- title: English
+  url: /en/
+- title: Türkçe
+  url: /tr/
 # - title: Posts
 #   url: /posts/
 # - title: Categories
