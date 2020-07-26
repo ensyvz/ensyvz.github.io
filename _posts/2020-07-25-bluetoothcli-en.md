@@ -4,7 +4,7 @@ excerpt: "Connecting to a device with bluetooth using terminal."
 tags:
      -linux
      -solution
-category: english
+categories: english
 ---
 
 You may want to use terminal for connecting to bluetooth devices and here is how:

@@ -4,7 +4,7 @@ excerpt: "Linux'da ucbirim uzerinden bluetooth acma ve bir aygita baglanma"
 tags:
      -linux
      -solution
-category: turkish
+categories: turkish
 ---
 
 Linux'da farklı sebeplerden dolayı uçbirimden bluetooth'u çalıştırmak ve bir cihaza bağlanmak istiyorsanız eğer yapmanız gerekenler :
