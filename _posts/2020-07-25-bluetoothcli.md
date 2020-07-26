@@ -7,7 +7,7 @@ tags:
 ---
 
 Linux'da farklı sebeplerden dolayı uçbirimden bluetooth'u çalıştırmak ve bir cihaza bağlanmak istiyorsanız eğer yapmanız gerekenler :
-(Ben Arch Linux üzerinden anlatıyorum ancak aynı paketi diğer dağıtımlarda yüjlediğinizde de çalışacağını düşünüyorum.) 
+(Ben Arch Linux üzerinden anlatıyorum ancak aynı paketi diğer dağıtımlarda yüklediğinizde de çalışacağını düşünüyorum.) 
 
 
 AUR'dan bluez-utils paketini yükleyelim.
